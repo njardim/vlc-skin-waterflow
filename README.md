@@ -1,11 +1,11 @@
 # vlc-skin-waterflow
-**VLC skin: Waterflow**
 
 A lot of new features have been integrated into this version, so it should run smoothly and stable in all current versions of VLC.
 
 The interface has been redesign to match high quality standards, so it looks nice, clean and fluid.
 
 ![waterflow.jpg](https://raw.githubusercontent.com/njardim/vlc-skin-waterflow/main/waterflow.jpg)
+
 
 Apart from all the VLC features, Waterflow includes:
 
@@ -31,7 +31,9 @@ Apart from all the VLC features, Waterflow includes:
 
 . So that you can control your space while watching in full screen.
 
+
 As always after installing any theme/skin remember to restart VLC.
+
 
 For security reasons, here it's the SHA256 of the latest version:
 
