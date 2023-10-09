@@ -1,4 +1,5 @@
 # vlc-skin-waterflow
+**VLC skin: Waterflow**
 
 A lot of features have been integrated into this version, and so it should run smoothly and stable in all current versions of VLC.
 
