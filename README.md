@@ -11,25 +11,25 @@ Apart from all the VLC features, Waterflow includes:
 
 **A Dynamic Playlist so that you can:**
 
-Add new media
-Delete media
-Open Playlists
-Save Playlists
-Repeat media
-Shuffle media
+1. Add new media
+2. Delete media
+3. Open Playlists
+4. Save Playlists
+5. Repeat media
+6. Shuffle media
 
 **An Equalizer which includes:**
 
-A Pre-Amp
-10 different band sliders to adjust the sound quality
+1. A Pre-Amp
+2. 10 different band sliders to adjust the sound quality
 
 **A Mini Player:**
 
-With all control features available in a cool and out of your way convenient Mini Player
+1. With all control features available in a cool and out of your way convenient Mini Player
 
 **Full screen controls:**
 
-So that you can control your space while watching in full screen
+1. So that you can control your space while watching in full screen
 
 
 As always after installing any theme/skin remember to restart VLC.
