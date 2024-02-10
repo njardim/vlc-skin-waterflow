@@ -5,7 +5,7 @@ A lot of useful features have been integrated into this version, and so it shoul
 
 The interface has been redesign to match high quality standards, so it looks nice, clean and fluid.
 
-![waterflow.jpg](https://raw.githubusercontent.com/njardim/vlc-skin-waterflow/main/waterflow.jpg)
+![waterflow.jpg](https://raw.githubusercontent.com/njardim/vlc-skin-waterflow/main/Waterflow-v237.jpg)
 
 
 Apart from all VLC features, Waterflow adds the following:
@@ -13,7 +13,7 @@ Apart from all VLC features, Waterflow adds the following:
 **A Dynamic Playlist so that you can:**
 
 1. Add new media;
-2. Delete media;
+2. Remove media;
 3. Open Playlists;
 4. Save Playlists;
 5. Repeat media;
