@@ -26,7 +26,7 @@ Apart from all VLC features, Waterflow adds the following:
 
 **A Mini Player:**
 
-1. Which boosts all control features in a cool and out of your way convenient Mini Player.
+1. Which boosts all control features in a very cool and out of your way convenient Mini Player.
 
 **Full screen controls:**
 
@@ -38,4 +38,4 @@ As always after installing any theme/skin remember to restart VLC.
 
 For security reasons, here it's the SHA256 of the latest version:
 
-SHA256: 31a227d07a42e08382918d230f6c86f0dd13828a543973ddc1403599e3857a2f
+SHA256: 0161567a4911c149c158314b33b2ca9ab3f9d5cb95e358b42ce82d315c297e25
