@@ -36,6 +36,6 @@ Apart from all VLC features, Waterflow adds the following:
 As always, after installing any theme or skin, remember to restart VLC.
 
 
-For security reasons, here's the SHA256 of the latest version:
+For security reasons, here's the SHA256 of the latest v238 version:
 
-SHA256: 0161567a4911c149c158314b33b2ca9ab3f9d5cb95e358b42ce82d315c297e25
+SHA256: cb8d1dc7b8381d5f1d02a9cb1fa4738d42a2e9be72d5d82c2c2f872ebcd46684
