@@ -5,7 +5,7 @@ A lot of useful features have been integrated into this version, and so it shoul
 
 The interface has been redesigned to match high quality standards, so it looks nice, clean, and fluid.
 
-![Waterflow-v237.jpg](https://raw.githubusercontent.com/njardim/vlc-skin-waterflow/main/Waterflow-v237.jpg)
+![Waterflow-v237.jpg](https://raw.githubusercontent.com/njardim/vlc-skin-waterflow/main/Waterflow-v242.jpg)
 
 
 Apart from all VLC features, Waterflow adds the following:
